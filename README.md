@@ -37,5 +37,3 @@ Since this application is specifically for hotel management, only hotel employee
 
 Lastly, the [settings](https://the-wild-oasis-asiyah.vercel.app/settings) page allows users to update hotel settings, such as breakfast prices and maximum guests per booking. 
 
-## Credits
-This project was built as part of the [React course](https://www.udemy.com/course/the-ultimate-react-course/) by Jonas Schmedtmann. Special thanks to Jonas for his exceptional teaching methods and effort, it does not go unrecognised!
